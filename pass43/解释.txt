@@ -1,0 +1,5 @@
+
+添加指令    
+wire inst_add, inst_addi, inst_sub,inst_and;
+    wire inst_andi, inst_nor, inst_sllv, inst_sra;
+    wire inst_srav,inst_srl, inst_srlv;
